@@ -1,0 +1,26 @@
+{
+  "name": "d3-message-sequence",
+  "version": "1.0.0",
+  "description": "Message Sequence Charting for D3",
+  "main": "d3-msg-seq.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1-ra/d3-message-sequence.git"
+  },
+  "keywords": [
+    "d3",
+    "message-sequence"
+  ],
+  "author": "Michael Shapiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p1-ra/d3-message-sequence/issues"
+  },
+  "homepage": "https://github.com/p1-ra/d3-message-sequence#readme"
+}
