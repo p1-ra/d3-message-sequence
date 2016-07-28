@@ -1,5 +1,8 @@
 # Message Sequence Charting for D3
 
+### REQUIREMENT 
+D3.js Version 3.x
+
 A simple dynamic/static [message sequence chart](https://en.wikipedia.org/wiki/Message_sequence_chart) for [d3](http://d3js.org).
 
 ### Dynamic
