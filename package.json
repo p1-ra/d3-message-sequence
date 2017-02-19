@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/p1-ra/d3-message-sequence.git"
+    "url": "git+https://github.com/koudelka/d3-message-sequence.git"
   },
   "keywords": [
     "d3",
@@ -20,7 +20,7 @@
   "author": "Michael Shapiro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/p1-ra/d3-message-sequence/issues"
+    "url": "https://github.com/koudelka/d3-message-sequence/issues"
   },
-  "homepage": "https://github.com/p1-ra/d3-message-sequence#readme"
+  "homepage": "https://github.com/koudelka/d3-message-sequence#readme"
 }
